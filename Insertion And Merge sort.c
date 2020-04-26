@@ -144,13 +144,3 @@ void merge(int arr[], int l, int m, int r)
 } 
 
 
-
-
-
-
-
-
-
-
-insertion-selection.c
-Displaying insertion-selection.c.
